@@ -48,4 +48,5 @@ To get started with the project:
 
 ## **Contribution**
 
-Feel free to contribute to this project by submitting issues, pull requests, or by providing feedback. Let's collaborate to build an accurate and robust stock price prediction model!
+Feel free to contribute to this project by submitting issues, pull requests, or by providing 
+ any feedback. Let's collaborate to build an accurate and robust stock price prediction model!
